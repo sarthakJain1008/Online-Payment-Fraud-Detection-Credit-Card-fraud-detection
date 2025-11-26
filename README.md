@@ -1,5 +1,3 @@
-# Online-Payment-Fraud-Detection-Credit-Card-fraud-detection
-
 # 🛡️ **Online Payment Fraud Detection – Credit Card Fraud Detection**
 
 *A Machine Learning–Based Fraud Detection System*
